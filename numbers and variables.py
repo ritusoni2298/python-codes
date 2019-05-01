@@ -1,10 +1,4 @@
-5+7
-4/7 #division always gives floating point number
-45//8 #remove the fractional part
-3**5 #used to calculat epower
-x = 10
-y = 20
-print(x+y)
+
 
 #strings
 
